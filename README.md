@@ -4,7 +4,7 @@
  
  ![markdown png](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/markdown.png)
 
-Installation
+## Installation
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ```
